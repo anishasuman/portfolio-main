@@ -35,7 +35,8 @@ The portfolio is fully responsive and optimized for all devices, ensuring a smoo
 
 ## 📸 Preview
 
-![Portfolio Preview](https://portfolio-main-xi-self.vercel.app/)
+![Uploading Screenshot 2026-03-26 224538.png…]()
+
 
 ---
 
