@@ -31,17 +31,6 @@ The portfolio is fully responsive and optimized for all devices, ensuring a smoo
 * **Styling:** Tailwind CSS
 * **Deployment:** Vercel
 
----
-
-## 📸 Preview
-
-![Uploading Screenshot 2026-03-26 224538.png…]()
-
-
----
-
-## 🚀 Getting Started
-
 ### Clone the repository
 
 ```bash
